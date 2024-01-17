@@ -21,15 +21,14 @@
 title: Caleb Tracy's Personal Website
 email: caleb.fo.tracy@gmail.com
 description: >-
-  Caleb Tracy's personal website. Backend engineer pursuing a career in
-  software engineering.
+  Caleb Tracy's personal website. Backend engineer pursuing a career in software engineering.
 domain: calebftracy.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://calebftracy.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 #baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
 github_username:  CalebFTracy
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
